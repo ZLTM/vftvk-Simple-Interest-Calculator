@@ -1,4 +1,7 @@
-body {background-color:black;font-family:arial;color:white}
+body {
+    background:url('http://fc05.deviantart.net/fs32/f/2008/227/4/a/Ibex_Wallpaper_by_willwill100.png');
+    font-family:arial;
+    color:white}
 h1{color:grey;font-family:verdana}
 .maindiv {
     background-color:white;
